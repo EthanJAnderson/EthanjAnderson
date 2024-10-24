@@ -21,5 +21,5 @@
 <h2> Certifications:</h2>
 
 - CompTia Security+
-- <b> CompTia Network+
-- <b> Google Cybersecurity Professional
+- CompTia Network+
+- Google Cybersecurity Professional
