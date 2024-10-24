@@ -19,9 +19,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2> Certifications:</h2>
-  - CompTia Security+
-  - CompTia Network+
-  -Google Cyber Security Profesional
+- CompTia Security+
+- CompTia Network+
+-Google Cyber Security Profesional
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
